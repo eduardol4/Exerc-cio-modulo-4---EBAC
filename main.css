@@ -124,3 +124,7 @@ section h2{
     width: 320px;
     object-fit: cover;
 }
+
+body p{
+    text-align: justify;
+}
